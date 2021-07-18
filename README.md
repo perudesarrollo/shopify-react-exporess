@@ -4,7 +4,7 @@
 
 Crear Aplicación desde https://partners.shopify.com
 
-> ![crear app](https://github.com/perudesarrollo/woocommerce-niubiz/blob/master/images/plugin-activar.png?raw=true)
+> ![crear app](https://github.com/perudesarrollo/shopify-react-exporess/blob/main/img/configurar-app.png?raw=true)
 
 ### Paso 2
 Configurar archivo de variables
@@ -24,4 +24,4 @@ npm instal
 http://localhost:300
 ```
 
-> ![mostrar app](https://github.com/perudesarrollo/woocommerce-niubiz/blob/master/images/plugin-activar.png?raw=true)
+> ![mostrar app](https://github.com/perudesarrollo/shopify-react-exporess/blob/main/img/tienda.png?raw=true)
