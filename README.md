@@ -24,6 +24,6 @@ npm instal
 http://localhost:3000
 ```
 
-Vista desde Geroku
+Vista desde Heroku
 https://evening-headland-10661.herokuapp.com
 > ![mostrar app](https://github.com/perudesarrollo/shopify-react-exporess/blob/main/img/tienda.png?raw=true)
